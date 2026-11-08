@@ -1,16 +1,1 @@
-{
-  "schema": 1,
-  "name": "Scam Radar",
-  "description": "Автоматическая маркировка скамеров и опасных каналов по базе @ScamRadarScam",
-  "author": "@Alekssus2",
-  "homepage": "https://t.me/ScamRadarMain",
-  "plugins": [
-    {
-      "id": "plugin_guard_scam",
-      "name": "Scam Radar | Скам-база",
-      "version": "1.0.0",
-      "file": "ScamRadar.plugin",
-      "sha256": ""
-    }
-  ]
-}
+{"schema": 1, "name": "Scam Radar", "author": "@Alekssus2", "homepage": "https://t.me/ScamRadarMain", "plugins": [{"id": "scam_radar", "name": "Scam Radar | Скам-база", "version": "1.0.0", "file": "scam_radar.plugin", "sha256": ""}]}
