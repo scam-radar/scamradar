@@ -1,1 +1,9 @@
-
+{
+  "version": 1,
+  "scam_text": "Осторожно: в базе Scam Radar",
+  "rep_text": "Плохая репутация",
+  "official_text": "Официальный ресурс",
+  "banner_user_scam": "Этот пользователь распространяет вредоносный контент",
+  "banner_channel_scam": "Канал помечен как скам. Не переходите по ссылкам.",
+  "colors": {"scam": "red", "rep": "orange", "dev_blue": "blue", "dev_green": "green"}
+}
