@@ -1,26 +1,26 @@
 {
   "6352874654": {
     "role": "owner",
-    "badge": "Plugin Guard Owner",
+    "badge": "Scam Radar Owner",
     "emoji_id": "5402364586810680584",
-    "subtitle": "Аккаунт владельца Plugin Guard"
+    "subtitle": "Владелец Scam Radar"
   },
   "8881642708": {
     "role": "developer",
-    "badge": "Plugin Guard Team",
+    "badge": "Scam Radar Team",
     "emoji_id": "5388658581664993142",
-    "subtitle": "Пользователь в команде Plugin Guard"
+    "subtitle": "Команда Scam Radar"
   },
   "5677713420": {
     "role": "developer",
-    "badge": "Plugin Guard Team",
+    "badge": "Scam Radar Team",
     "emoji_id": "5317000767477923070",
-    "subtitle": "Пользователь в команде Plugin Guard"
+    "subtitle": "Команда Scam Radar"
   },
   "5586966151": {
     "role": "supporter",
-    "badge": "Лучший Пупсик",
+    "badge": "Scam Radar Supporter",
     "emoji_id": "5381841785666413682",
-    "subtitle": "Поддержал развитие Plugin Guard"
+    "subtitle": "Поддержал развитие Scam Radar"
   }
 }
