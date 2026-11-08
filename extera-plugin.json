@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "name": "Plugin Guard",
-  "description": "Официальный репозиторий плагина Plugin Guard",
+  "name": "Scam Radar",
+  "description": "Автоматическая маркировка скамеров и опасных каналов по базе @ScamRadarScam",
   "author": "@Alekssus2",
-  "homepage": "https://t.me/PluginGuard",
+  "homepage": "https://t.me/ScamRadarMain",
   "plugins": [
     {
       "id": "plugin_guard_scam",
-      "name": "Plugin Guard | Скам-база",
+      "name": "Scam Radar | Скам-база",
       "version": "1.0.0",
-      "file": "PluginGuard.plugin",
-      "sha256": "4b4d55cddb764c09c2e979cca4d528ac893257036dfd71a30a491aaa0893e4fb"
+      "file": "ScamRadar.plugin",
+      "sha256": ""
     }
   ]
 }
