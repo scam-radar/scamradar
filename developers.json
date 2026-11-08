@@ -1,26 +1,4 @@
 {
-  "6352874654": {
-    "role": "owner",
-    "badge": "Scam Radar Owner",
-    "emoji_id": "5402364586810680584",
-    "subtitle": "Владелец Scam Radar"
-  },
-  "8881642708": {
-    "role": "developer",
-    "badge": "Scam Radar Team",
-    "emoji_id": "5388658581664993142",
-    "subtitle": "Команда Scam Radar"
-  },
-  "5677713420": {
-    "role": "developer",
-    "badge": "Scam Radar Team",
-    "emoji_id": "5317000767477923070",
-    "subtitle": "Команда Scam Radar"
-  },
-  "5586966151": {
-    "role": "supporter",
-    "badge": "Scam Radar Supporter",
-    "emoji_id": "5381841785666413682",
-    "subtitle": "Поддержал развитие Scam Radar"
-  }
+  "6352874654": {"role": "owner", "badge": "Scam Radar Owner", "emoji_id": "5402364586810680584", "subtitle": "Владелец Scam Radar"},
+  "8881642708": {"role": "developer", "badge": "Scam Radar Team", "emoji_id": "5388658581664993142", "subtitle": "Команда Scam Radar"}
 }
