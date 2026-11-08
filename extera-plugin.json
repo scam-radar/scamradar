@@ -1,1 +1,1 @@
-{"schema": 1, "name": "Scam Radar", "author": "@Alekssus2", "homepage": "https://t.me/ScamRadarMain", "plugins": [{"id": "scam_radar", "name": "Scam Radar | Скам-база", "version": "1.0.0", "file": "scam_radar.plugin", "sha256": ""}]}
+{"schema": 1, "name": "Scam Radar", "author": "@Alekssus2", "homepage": "https://t.me/ScamRadarMain", "plugins": [{"id": "scam_radar", "name": "Scam Radar | Скам-база", "version": "1.0.0", "file": "scam_radar.plugin", "sha256": "ce3c380d4e2858155706b962702cb58fc19080c1407762458a51169a46d45916"}]}
