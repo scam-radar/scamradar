@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "Scam Radar",
+  "author": "@Alekssus2",
+  "homepage": "https://t.me/ScamRadarMain",
+  "plugins": [
+    {
+      "id": "scam_radar",
+      "name": "Scam Radar | Скам-база",
+      "version": "1.0.0",
+      "file": "ScamRadar-1.0.0.elyx",
+      "sha256": "b6eaff84ee2e40dcb33683402a82906f603e66ecff727717dbb88d5973fe85e9"
+    }
+  ]
+}
